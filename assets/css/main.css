@@ -228,6 +228,11 @@ hr {
 .align-right {
   text-align: right; }
 
+.text-icon{
+	color: #f56a6a;
+	font-weight: bold;
+}
+
 /* Row */
 .row {
   display: flex;
